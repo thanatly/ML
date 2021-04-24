@@ -1,2 +1,2 @@
 # ML
-Self-learning note on Machine Learning
+Self-learning note on Machine Learning with Python
